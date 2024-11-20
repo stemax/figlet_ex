@@ -1,4 +1,4 @@
-# Bun and figlet server / Typescript resalisation / Bun tests included
+# Bun server + figlet / Typescript resalisation / Bun tests included
 
 This project demonstrates how to use the `figlet` library with Bun to generate ASCII art text. 
 It includes a simple server that generates ASCII art using all available fonts.
